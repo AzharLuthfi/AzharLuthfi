@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on **a marketplace**
 
-🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+🌱 I’m currently learning **React, Tailwind, Node js, and MongoDB**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/AzharLuthfi/AzharLuthfi/issues)**
 
